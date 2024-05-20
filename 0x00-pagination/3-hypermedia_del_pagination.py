@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Deletion-resilient hypermedia pagination
+    Deletion-resilient hypermedia pagination
 """
 
 import csv
@@ -44,8 +44,8 @@ class Server:
             Get the hyper index
 
             Args:
-                index: Current page
-                page_size: Total size of the page
+                index
+                page_size
 
             Return:
                 Hyper index
