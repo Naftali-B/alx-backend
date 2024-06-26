@@ -1,3 +1,1 @@
-Flask-Babel
-Flask i18n
-pytz
+i18n
